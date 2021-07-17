@@ -3,6 +3,7 @@
 Custom wordlist generator
 
 NB: CURRENTLY IN BETA STAGE (Welcome to create a pull request)
+
 Password length and symbols in front features coming soon
 
 Similar to cupp, but incorporates much more robust control over the words generated.
